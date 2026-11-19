@@ -1,0 +1,1 @@
+export default function NotFound(){return <main className="not-found"><h1>A little off the garden path.</h1><p>This page hasn’t taken root. Let’s get you back to Little Grove.</p><a href="/">Back to the garden</a></main>}
